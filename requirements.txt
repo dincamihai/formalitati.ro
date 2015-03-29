@@ -1,1 +1,6 @@
 Django==1.7.7
+WebTest==2.0.18
+django-webtest==1.7.7
+pytest==2.7.0
+pytest-bdd==2.7.0
+pytest-pythonpath==0.6
